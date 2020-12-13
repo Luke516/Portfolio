@@ -7,7 +7,7 @@ import './App.css'
 
 ReactDOM.render(
   <>
-    <BrowserRouter basename='/Portfolio'>
+    <BrowserRouter basename='https://gambhir-harshil.github.io/Portfolio/'>
       <App />
     </BrowserRouter>
   </>,
